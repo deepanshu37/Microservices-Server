@@ -1,6 +1,6 @@
 spring:
   application:
-  name: userservice
+  name: dev-service
 
 eureka:
   instance:
